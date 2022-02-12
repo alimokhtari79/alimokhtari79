@@ -2,7 +2,7 @@
 
 #### I am a Front-end Developer
 
-Skills: JS / HTML / CSS / TailwindCSS
+My Skills: HTML | CSS | JavaScript | TailwindCSS
 
 - 🌱 I’m currently learning React.js 
 
