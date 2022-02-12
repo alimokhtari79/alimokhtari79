@@ -7,7 +7,8 @@ I am a Front-end Developer
 ### My Skills and Experience 
 * 💻  HTML, CSS, JavaScript, TailwindCSS
 
-- 🌱 I’m currently learning React.js 
+
+ 🌱 I’m currently learning React.js 
 
 ##  find me here
 
