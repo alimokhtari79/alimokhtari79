@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Ali
+### Hi there 👋, I'm Ali
 
 #### I am a Front-end Developer
 
