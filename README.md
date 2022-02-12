@@ -1,8 +1,11 @@
-### Hi there 👋, I'm Ali
+# Hi there 👋, I'm Ali
 
-#### I am a Front-end Developer
+## About me
 
-### My Skills: HTML | CSS | JavaScript | TailwindCSS
+I am a Front-end Developer
+
+### My Skills and Experience 
+* 💻  HTML, CSS, JavaScript, TailwindCSS
 
 - 🌱 I’m currently learning React.js 
 
