@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ali
+# Hi there 👋 I'm Ali
 
 ## About me
 
