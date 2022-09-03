@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Ali
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimokhtari79&theme=vue)
-https://github-readme-stats.vercel.app/api?username={alimokhtari79}&theme=blue-green
+![Top Langs](https://github-readme-stats.vercel.app/api?username={alimokhtari79}&theme=blue-green)
 
 ## About me
 
