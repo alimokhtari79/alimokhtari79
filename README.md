@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Ali
 
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimokhtari79&theme=vue)
+
+
 ## About me
 
 I am a Front-end Developer
@@ -27,5 +30,3 @@ I am a Front-end Developer
 
 [<img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white' alt='github' height='40'>](https://github.com/alimokhtari79)
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/alimokhtari79/)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimokhtari79&theme=vue)
