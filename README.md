@@ -1,11 +1,10 @@
 # Hi there 👋 I'm Ali
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimokhtari79&theme=vue)
-
-
 ## About me
 
 I am a Front-end Developer
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimokhtari79&theme=vue)
 
 ### My Skills and Experience 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
