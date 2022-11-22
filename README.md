@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Ali
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimokhtari79&theme=vue)
-
 ## About me
 
 I am a Front-end Developer
