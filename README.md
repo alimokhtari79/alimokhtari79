@@ -14,13 +14,14 @@ I am a Front-end Developer
 
 
   🌱 I’m currently learning React.js 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimokhtari79&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimokhtari79&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  find me here
 
