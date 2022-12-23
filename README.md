@@ -15,7 +15,6 @@ I am a Front-end Developer
 
   🌱 I’m currently learning React.js 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimokhtari79&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
