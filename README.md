@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Ali
 
-## About me
-
 I am a Front-end Developer
 
 ### My Skills and Experience 
@@ -22,7 +20,7 @@ I am a Front-end Developer
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alimokhtari79&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  find me here
 
