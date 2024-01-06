@@ -20,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-🌱 I’m currently learning React.js 
+🌱 I’m currently learning next.js
   
 
 ##  find me here
