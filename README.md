@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Ali+Mokhtari;happy+to+meet+you+!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=0284C7&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Ali+Mokhtari;happy+to+meet+you+!&center=fale&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=0284C7&size=30">
 </h1>
 
 👨🏻 I am a Front-end Developer
